@@ -49,6 +49,11 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/**/Binaries/*
 
+# Zusätzliche Unreal Engine Ordner
+DerivedDataCache/
+Intermediate/
+Saved/
+Autosave/
 # Builds
 Build/*
 
